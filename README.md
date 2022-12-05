@@ -1,2 +1,2 @@
 # DI_101_exercises
-užduotys
+baisiai blogi namų darbai
